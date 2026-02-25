@@ -8,7 +8,7 @@ import Cart from './components/Cart';
 import Products from './components/Products';
 import ProductDetails from './components/ProductDetails'; // Import ProductDetails component
 
-import shoes from './assets/img/shoes.png';
+import shoes from './assets/img/shoes.png;
 import shoes2 from './assets/img/shoes2.png';
 import shoes3 from './assets/img/shoes3.png';
 import shoes4 from './assets/img/shoes4.png';
